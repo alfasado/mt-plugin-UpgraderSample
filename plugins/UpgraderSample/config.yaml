@@ -1,0 +1,8 @@
+name: UpgraderSample
+id: UpgraderSample
+version: 1.0
+schema_version: 1.0
+description: '<__trans phrase="Upgrade sample.">'
+author_name: Alfasado Inc.
+author_link: https://alfasado.net/
+
